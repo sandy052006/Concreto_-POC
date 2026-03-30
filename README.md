@@ -49,7 +49,6 @@ Hold Ctrl and click the http://localhost:5173/ link in your terminal to open the
 📂 Project Structure
 Here is an overview of the core application files:
 
-Plaintext
 CONCRETO_POC/
 ├── public/               # Static assets
 ├── src/                  
